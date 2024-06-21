@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Anil Bhattarai.<br> ➡️ passionate Front-End Developer 🚀<br> ➡️ creative Graphic Designer 🎨 <br> ➡️ enthusiastic Content Creator 📹<br><br>                                          🌟🌟🌟 Welcome to my GitHub!  🌟🌟🌟<br>
-<br>What I'm Up To:<br>🌟 YouTube: Follow my journey on Crealify for design and development content.<br>💻 Learning: Currently mastering MERN Stack Development with a focus on React.js.<br>🎮 Gaming: I unwind by playing online games to overcome coding frustration.<br>Ask Me About:<br>Responsive and dynamic React applications 🌐<br>Stunning graphic designs and visual content ✨<br>Tips for content creation and growing on YouTube 🎬<br>Let's connect and collaborate! Feel free to explore my projects and reach out anytime.<br><br>Happy coding! 😊
+Hey there! I'm Anil Bhattarai.<br> ➡️ passionate Front-End Developer 🚀<br> ➡️ creative Graphic Designer 🎨 <br> ➡️ enthusiastic Content Creator 📹<br><br>                                          🌟🌟🌟 Welcome to my GitHub!  🌟🌟🌟<br>What I'm Up To:<br>🌟 YouTube: Follow my journey on Crealify for design and development content.<br>💻 Learning: Currently mastering MERN Stack Development with a focus on React.js.<br>🎮 Gaming: I unwind by playing online games to overcome coding frustration.<br>Ask Me About:<br>Responsive and dynamic React applications 🌐<br>Stunning graphic designs and visual content ✨<br>Tips for content creation and growing on YouTube 🎬<br>Let's connect and collaborate! Feel free to explore my projects and reach out anytime.<br><br>Happy coding! 😊
 
 
 ## 🌐 Socials:
@@ -14,7 +13,7 @@ Hey there! I'm Anil Bhattarai.<br> ➡️ passionate Front-End Developer 🚀<br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crealify&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Crealify&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Crealify&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Crealify&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
