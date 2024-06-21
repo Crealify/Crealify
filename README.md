@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>Hey there! I'm Anil Bhattarai, a passionate Front-End Developer 🚀, creative Graphic Designer 🎨, and enthusiastic Content Creator 📹. Welcome to my GitHub!<br><br>What I'm Up To:<br>🌟 YouTube Channel: Check out my creative journey on YouTube at Crealify where I share my passion for design, development, and everything in between.<br>💻 Learning Journey: Currently diving deep into MERN Stack Development with a focus on React.js. Excited to build awesome web applications and share my progress!<br>🎮 Gaming Enthusiast: When I'm not coding, you can find me unwinding with some online games. It's my go-to for beating coding frustration!<br><br>Ask Me About:<br>Crafting responsive and dynamic React applications 🌐<br>Creating stunning graphic designs and visual content ✨<br>Tips and tricks for content creation and growing on YouTube 🎬<br><br>Let's connect and collaborate! Feel free to explore my projects, and don't hesitate to reach out if you have any questions or just want to chat.<br><br>Happy coding! 😊
+<br>Hey there! I'm Anil Bhattarai. 
+🚀 a passionate Front-End Developer,
+🎨 creative Graphic Designer,
+📹 enthusiastic Content Creator . 
+<br>Welcome to my GitHub!<br>
+<br>What I'm Up To:<br>🌟 YouTube Channel: Check out my creative journey on YouTube at Crealify where I share my passion for design, development, and everything in between.<br>💻 Learning Journey: Currently diving deep into MERN Stack Development with a focus on React.js. Excited to build awesome web applications and share my progress!<br>🎮 Gaming Enthusiast: When I'm not coding, you can find me unwinding with some online games. It's my go-to for beating coding frustration!<br><br>Ask Me About:<br>Crafting responsive and dynamic React applications 🌐<br>Creating stunning graphic designs and visual content ✨<br>Tips and tricks for content creation and growing on YouTube 🎬<br><br>Let's connect and collaborate! Feel free to explore my projects, and don't hesitate to reach out if you have any questions or just want to chat.<br><br>Happy coding! 😊
 
 
 ## 🌐 Socials:
