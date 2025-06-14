@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Anil Bhattarai.<br> ➡️ passionate Front-End Developer 🚀<br> ➡️ creative Graphic Designer 🎨 <br> ➡️ enthusiastic Content Creator 📹
+Hey there! I'm Anil Bhattarai.<br> ➡️ passionate Mobile App Developer 🚀<br> ➡️ creative Graphic Designer 🎨 <br> ➡️ enthusiastic Content Creator 📹
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br>
 <br>What I'm Up To:<br>🌟 YouTube: Follow my journey on Crealify for design and development content.<br>💻 Learning: Currently mastering MERN Stack Development with a focus on React.js.<br>🎮 Gaming: I unwind by playing online games to overcome coding frustration.<br>
