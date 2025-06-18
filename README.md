@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Enthuziastic;Computer+Engineer" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Enthusiast;Computer+Engineer" alt="Typing Header" />
   
   <h3>Crafting seamless digital experiences with Flutter & MERN stack.</h3>
   
