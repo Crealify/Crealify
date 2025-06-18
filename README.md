@@ -1,38 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Specialist;Computer+Engineer" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Enthuziastic;Computer+Engineer" alt="Typing Header" />
   
-  <h3>Crafting seamless digital experiences with Flutter & MERN stack</h3>
+  <h3>Crafting seamless digital experiences with Flutter & MERN stack.</h3>
   
   <img width="350" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" alt="Coding Animation">
 </div>
 
-## 👨‍💻 About Me
-
 <div align="center">
-  <strong>Computer Engineer</strong> | <strong>Full-Stack Developer</strong> | <strong>UI/UX Enthusiast</strong>
+  <img alt="Coder GIF" width="600" style="max-width:100%; height:auto;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </div>
 
-### 🛠️ Specializations
+---
+
 <div align="center">
-  • <strong>Mobile Development</strong>: Flutter expert building performant cross-platform apps<br>
-  • <strong>Web Development</strong>: Full-stack MERN (MongoDB, Express, React, Node.js) solutions<br>
-  • <strong>UI/UX Design</strong>: Crafting intuitive and visually stunning interfaces<br>
-  • <strong>Technical Content Creation</strong>: Sharing knowledge through blogs and tutorials<br>
+
+### 🔥 About Me  
+**<span style="color:#4285F4">Computer Engineer</span>** • **<span style="color:#EA4335">Full-Stack Developer</span>** • **<span style="color:#FBBC05">UI/UX Enthusiast</span>**  
+
 </div>
 
-### 🌱 Current Focus
-<div align="center">
-  🔭 <strong>Deepening</strong>: Advanced MERN stack patterns and best practices<br>
-  🚀 <strong>Exploring</strong>: Microservices architecture and cloud-native development<br>
-  📚 <strong>Learning</strong>: DevOps principles and containerization technologies<br>
-</div>
+---
 
-### 🎯 Beyond Code
-<div align="center">
-  🎮 <strong>Gaming</strong>: Passionate about game design and development<br>
-  🎥 <strong>Content Creation</strong>: Producing educational tech content<br>
-  🧠 <strong>Interests</strong>: AI/ML, AR/VR, and emerging technologies<br>
-</div>
+### <span style="color: #e74c3c">🛠️ Specializations</span>  
+- **<span style="color: #2ecc71">Mobile Development</span>:** Flutter expert building performant cross-platform apps  
+- **<span style="color: #2ecc71">Web Development</span>:** Full-stack MERN (MongoDB, Express, React, Node.js) solutions  
+- **<span style="color: #2ecc71">UI/UX Design</span>:** Crafting intuitive and visually appealing interfaces  
+- **<span style="color: #2ecc71">Technical Content Creation</span>:** Sharing knowledge through blogs and tutorials (Youtube: Crealify) 
+
+---
+
+### <span style="color: #e74c3c">🚀 Current Focus</span>  
+- **<span style="color: #f39c12">Deepening</span>:** Advanced MERN stack patterns and best practices  
+- **<span style="color: #f39c12">Exploring</span>:** Microservices architecture and cloud-native development  
+- **<span style="color: #f39c12">Learning</span>:** DevOps principles and containerization technologies  
+
+---
+
+### <span style="color: #e74c3c">🎮 Beyond Code</span>  
+- **<span style="color: #9b59b6">Gaming</span>:** Passionate about game design and development  
+- **<span style="color: #9b59b6">Content Creation</span>:** Producing educational tech content  
+- **<span style="color: #9b59b6">Interests</span>:** AI/ML, AR/VR, and emerging technologies  
+
+---
 
 ## 🛠️ Core Technologies
 <div align="center">
@@ -56,12 +65,17 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
+
 ## 📊 GitHub Analytics
 <div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Crealify&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"><br><br>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Crealify&theme=radical&hide_border=true"><br><br>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crealify&layout=compact&theme=radical&hide_border=true">
+  
+  <!-- Compact Stats Card -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Crealify&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=24">
+  
+  <!-- Top Languages Card -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crealify&layout=compact&theme=radical&hide_border=true&langs_count=6">
 </div>
+
 
 ## 🌐 Connect With Me
 <div align="center">
@@ -87,7 +101,10 @@
   <img src="https://komarev.com/ghpvc/?username=Crealify&label=Profile+Views&color=blue&style=flat" alt="Profile Views">
 </div>
 
+<br> <!-- Add some spacing -->
+<!-- Animated Wave Footer -->
+<!-- Color-Changing Wave Footer (GitHub-Compatible) -->
 <div align="center">
-  <h3>🎵 Currently Coding To</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Now Playing">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=120&section=footer&animation=fadeIn&fontSize=40&ts=1" width="100%" alt="Red-Blue Wave" style="display: block; margin: 0 auto;">
+  <!-- GitHub's cache will occasionally refresh showing different colors -->
 </div>
