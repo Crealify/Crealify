@@ -7,19 +7,31 @@
 </div>
 
 ## 👨‍💻 About Me
-<div align="center">
-I'm a passionate Computer Engineer specializing in:
-</div>
 
 <div align="center">
-  • <strong>Mobile Development</strong>: Flutter expert building cross-platform apps<br>
-  • <strong>Web Development</strong>: Full-stack MERN solutions<br>
-  • <strong>UI/UX Design</strong>: Creating visually appealing interfaces<br>
-  • <strong>Content Creation</strong>: Sharing knowledge through tech content<br><br>
-  
-  🔭 <strong>Currently</strong>: Deepening MERN stack expertise<br>
-  🌱 <strong>Learning</strong>: Microservices architecture<br>
-  🎮 <strong>Hobbies</strong>: Gaming & educational content creation
+  <strong>Computer Engineer</strong> | <strong>Full-Stack Developer</strong> | <strong>UI/UX Enthusiast</strong>
+</div>
+
+### 🛠️ Specializations
+<div align="center">
+  • <strong>Mobile Development</strong>: Flutter expert building performant cross-platform apps<br>
+  • <strong>Web Development</strong>: Full-stack MERN (MongoDB, Express, React, Node.js) solutions<br>
+  • <strong>UI/UX Design</strong>: Crafting intuitive and visually stunning interfaces<br>
+  • <strong>Technical Content Creation</strong>: Sharing knowledge through blogs and tutorials<br>
+</div>
+
+### 🌱 Current Focus
+<div align="center">
+  🔭 <strong>Deepening</strong>: Advanced MERN stack patterns and best practices<br>
+  🚀 <strong>Exploring</strong>: Microservices architecture and cloud-native development<br>
+  📚 <strong>Learning</strong>: DevOps principles and containerization technologies<br>
+</div>
+
+### 🎯 Beyond Code
+<div align="center">
+  🎮 <strong>Gaming</strong>: Passionate about game design and development<br>
+  🎥 <strong>Content Creation</strong>: Producing educational tech content<br>
+  🧠 <strong>Interests</strong>: AI/ML, AR/VR, and emerging technologies<br>
 </div>
 
 ## 🛠️ Core Technologies
