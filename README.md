@@ -108,3 +108,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=120&section=footer&animation=fadeIn&fontSize=40&ts=1" width="100%" alt="Red-Blue Wave" style="display: block; margin: 0 auto;">
   <!-- GitHub's cache will occasionally refresh showing different colors -->
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="MasterHead" width="100%"/>
+</p>
