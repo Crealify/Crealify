@@ -16,7 +16,7 @@
 <div align="center">
 
 ### 🔥 About Me  
-**<span style="color:#4285F4">Computer Engineer</span>** • **<span style="color:#EA4335">Full-Stack Developer</span>** • **<span style="color:#FBBC05">UI/UX Enthusiast</span>**  
+**<span style="color:#4285F4">Computer Engineer</span>** • **<span style="color:#EA4335">Full-Stack Developer</span>** • **<span style="color:#FBBC05">AI Enthusiast</span>**  
 
 </div>
 
