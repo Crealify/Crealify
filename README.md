@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Anil+Bhattarai;Computer+Engineer;A+software+Developer+From+Nepal.;Flutter+Developer+&+AI+Enthusiast;" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Anil+Bhattarai.;Computer+Engineer;A+software+Developer+From+Nepal.;Flutter+Developer+|+AI+Enthusiast;" alt="Typing Header" />
 
 <h1 align="center"><samp>Turning Ideas Into Powerful Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="24px"> </h1>
   <img  src="https://github.com/Crealify/Crealify/blob/Crealify/crealify.gif" alt="Coding Animation">
@@ -19,7 +19,7 @@
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
-<h3 ><samp>✍️Random Dev Quote</samp></h3>
+<h3 ><samp>✍️ Random Dev Quote</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
