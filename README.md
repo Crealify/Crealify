@@ -1,16 +1,12 @@
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="24px"> </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Enthusiast;Computer+Engineer;Developer+From+Nepal" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Enthusiast;Computer+Engineer;A+software+Developer+From+Nepal" alt="Typing Header" />
 
   
   <h3>Crafting seamless digital experiences with Flutter & MERN stack.</h3>
   
-  <img width="350" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" alt="Coding Animation">
-</div>
-
-<div align="center">
-  <img alt="Coder GIF" width="560" style="max-width:100%; height:auto;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+  <img  src="https://github.com/Crealify/Crealify/blob/Crealify/crealify.gif" alt="Coding Animation">
 </div>
 
 ---
