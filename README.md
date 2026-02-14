@@ -1,3 +1,5 @@
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Anil+Bhattarai;Flutter+Developer;MERN+Stack+Enthusiast;Computer+Engineer;Developer+From+Nepal" alt="Typing Header" />
 
