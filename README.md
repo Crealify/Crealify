@@ -74,13 +74,11 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  
-  <!-- Compact Stats Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Crealify&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=24">
-  
-  <!-- Top Languages Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crealify&layout=compact&theme=radical&hide_border=true&langs_count=6">
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Crealify&theme=radical&hide_border=true" />
+
 </div>
+
 
 
 ## 🌐 Connect With Me
