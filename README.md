@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🔥 About Me  
+### About Me  
 **<span style="color:#4285F4">Computer Engineer</span>** • **<span style="color:#EA4335">Full-Stack Developer</span>** • **<span style="color:#FBBC05">AI Enthusiast</span>**  
 
 </div>
@@ -19,7 +19,7 @@
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
-<h3 ><samp>✍️ Random Dev Quote</samp></h3>
+<h3 ><samp>Random Dev Quote</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" width= "100%" />
     </div>
@@ -27,7 +27,7 @@
 
 ---
 
-### <span style="color: #e74c3c">🛠️ Specializations</span>  
+### <span style="color: #e74c3c">Specializations</span>  
 - **<span style="color: #2ecc71">Mobile Development</span>:** Flutter expert building performant cross-platform apps  
 - **<span style="color: #2ecc71">Web Development</span>:** Full-stack MERN (MongoDB, Express, React, Node.js) solutions  
 - **<span style="color: #2ecc71">UI/UX Design</span>:** Crafting intuitive and visually appealing interfaces  
@@ -35,21 +35,21 @@
 
 ---
 
-### <span style="color: #e74c3c">🚀 Current Focus</span>  
+### <span style="color: #e74c3c">Current Focus</span>  
 - **<span style="color: #f39c12">Deepening</span>:** Advanced MERN stack patterns and best practices  
 - **<span style="color: #f39c12">Exploring</span>:** Microservices architecture and cloud-native development  
 - **<span style="color: #f39c12">Learning</span>:** DevOps principles and containerization technologies  
 
 ---
 
-### <span style="color: #e74c3c">🎮 Beyond Code</span>  
+### <span style="color: #e74c3c">Beyond Code</span>  
 - **<span style="color: #9b59b6">Gaming</span>:** Passionate about game design and development  
 - **<span style="color: #9b59b6">Content Creation</span>:** Producing educational tech content  
 - **<span style="color: #9b59b6">Interests</span>:** AI/ML, AR/VR, and emerging technologies  
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 <div align="center">
   <h3>Mobile Development</h3>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -72,7 +72,7 @@
 </div>
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <div align="center">
 
   <img height="170" src="https://streak-stats.demolab.com?user=Crealify&theme=radical&hide_border=true" />
@@ -81,7 +81,7 @@
 
 
 
-## 🌐 Connect With Me
+## Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/anil-bhattarai-735129307">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
