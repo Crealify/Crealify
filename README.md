@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Anil+Bhattarai.;Computer+Engineer+From+Nepal.;Software+Developer;+Working+as+Flutter+Developer.;Mern+Stack+|+AI+Enthusiast+;" alt="Typing Header" />
 
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="24px"> </h1>
-  <img  src="https://github.com/Crealify/Crealify/blob/Crealify/crealify.gif" alt="Coding Animation">
+  <img  src="https://github.com/Crealify/Crealify/blob/Crealify/crealify.gif" alt="Coding Animation" height=500px>
 
 </div>
 
@@ -21,7 +21,7 @@
 <div style="margin-bottom: 60px;"></div>
 <h3 ><samp>✍️ Random Dev Quote</samp></h3>
     <div>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" width= "100%" />
     </div>
 
 
