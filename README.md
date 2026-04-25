@@ -2,16 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=54A2FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Anil+Bhattarai.;Computer+Engineer+From+Nepal.;Software+Developer;+Working+as+Flutter+Developer.;Mern+Stack+|+AI+Enthusiast+;" alt="Typing Header" />
 
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="24px"> </h1>
-  <img  src="https://github.com/Crealify/Crealify/blob/Crealify/crealify.gif" alt="Coding Animation" width = "800%" height=440px>
-
-</div>
-
----
-
-<div align="center">
-
-### About Me  
-**<span style="color:#4285F4">Computer Engineer</span>** • **<span style="color:#EA4335">Full-Stack Developer</span>** • **<span style="color:#FBBC05">AI Enthusiast</span>**  
+  <img  src="https://github.com/Crealify/Crealify/blob/Crealify/crealify.gif" alt="Coding Animation" width = "800%" height=420px>
 
 </div>
 
@@ -23,29 +14,6 @@
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" width= "100%" />
     </div>
-
-
----
-
-### <span style="color: #e74c3c">Specializations</span>  
-- **<span style="color: #2ecc71">Mobile Development</span>:** Flutter expert building performant cross-platform apps  
-- **<span style="color: #2ecc71">Web Development</span>:** Full-stack MERN (MongoDB, Express, React, Node.js) solutions  
-- **<span style="color: #2ecc71">UI/UX Design</span>:** Crafting intuitive and visually appealing interfaces  
-- **<span style="color: #2ecc71">Technical Content Creation</span>:** Sharing knowledge through blogs and tutorials (Youtube: Crealify) 
-
----
-
-### <span style="color: #e74c3c">Current Focus</span>  
-- **<span style="color: #f39c12">Deepening</span>:** Advanced MERN stack patterns and best practices  
-- **<span style="color: #f39c12">Exploring</span>:** Microservices architecture and cloud-native development  
-- **<span style="color: #f39c12">Learning</span>:** DevOps principles and containerization technologies  
-
----
-
-### <span style="color: #e74c3c">Beyond Code</span>  
-- **<span style="color: #9b59b6">Gaming</span>:** Passionate about game design and development  
-- **<span style="color: #9b59b6">Content Creation</span>:** Producing educational tech content  
-- **<span style="color: #9b59b6">Interests</span>:** AI/ML, AR/VR, and emerging technologies  
 
 ---
 
