@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:54A2FF,100:02569B&height=200&section=header&text=Anil%20Bhattarai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Cross-Platform%20Application%20Developer&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=54A2FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Flutter+%26+Dart+Specialist;AI+%2B+Mobile+Enthusiast;Building+Pixel-Perfect+Apps+Since+Day+1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=54A2FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Flutter+%26+Dart+Specialist;AI+%2B+Mobile+Enthusiast" alt="Typing SVG" />
 
 <br>
 
